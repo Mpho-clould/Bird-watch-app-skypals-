@@ -1,0 +1,49 @@
+Release Notes - Version 1.1.0
+
+We're excited to bring you the latest update to our app, packed with new features and improvements based on your feedback. Thank you for your continued support!
+
+### New Features:
+
+1. User Profile:
+   - You can now create and view your user profile!
+
+2. Send Feedback:
+   - Your opinions matter to us! We've introduced a new 'Send Feedback' feature that allows you to share your thoughts, report bugs, or suggest improvements directly from the app. We appreciate your input in making this app even better.
+
+3. Dark Mode:
+   - Introducing Dark Mode for a more comfortable and visually pleasing experience, especially in low-light environments.
+     You can toggle Dark Mode on or off in the app settings to match your preference.
+
+4. Customer Support:
+   - We consider customer support a feature, not just a service. Our 24/7 support team is here to assist you anytime, ensuring a seamless experience. Reach out via email at skypals@gmail.com or use the in-app feedback report.
+
+### Enhancements:
+
+1. Performance Improvements:
+   - We've optimized the app for better performance, ensuring smoother navigation and quicker response times.
+
+2. Bug Fixes:
+   - Addressed various bugs and issues from part 2. The app is now more stable and reliable.
+
+3. UI/UX Enhancements:
+   - Made several improvements to the user interface and user experience based on your feedback. The app now provides a more intuitive and enjoyable interaction.
+
+### How to Use the New Features:
+
+1. User Profile:
+   - To create or view your user profile, navigate to the 'Profile' section in the app menu. From there, you can see your profile information.
+
+2. Send Feedback:
+   - Found a bug or have a suggestion? Tap on the 'Send Feedback' option in the app menu. Your feedback will help us enhance the app and deliver a better experience for everyone.
+
+3. Dark Mode:
+   - Switch between Dark Mode and Light Mode in the app settings. Look for the 'Theme' or 'Display' section, where you can toggle Dark Mode on or off.
+
+
+Thank you for choosing our app!
+
+[SkyPals] 
+Team
+-Pitsi Mpho Nkoana
+-Alphy Andre Chauke
+-Mukoko Henock Kiniki
